@@ -4,7 +4,7 @@
 ## Lab 1
 
 ### App Description
-`TODO://` Add app description
+`TODO://` The app displays a question and interacts with a user  through screen.
 
 ### App Walk-though
 
