@@ -12,7 +12,7 @@
 
 
 
-<img src=https://github.com/EbrahimBonger/Flashcard/blob/master/falshCard.gifwidth=200><br>
+<img src=https://github.com/EbrahimBonger/Flashcard/blob/master/falshCard.gifwidth=200><br/>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
